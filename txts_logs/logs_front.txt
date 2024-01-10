@@ -1,0 +1,65 @@
+commit 629dbbd3dc32fbcbe6425c9c4d7b31df5f02ef9f
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Dec 14 23:30:17 2023 -0300
+
+    upando FEB-P005
+
+commit 2cc76d5af9c07c2254d3e00a8e76d90b51ea03b0
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Dec 13 20:54:18 2023 -0300
+
+    aulas
+
+commit 1fd5951d63aa1ba3ddb539c04176c65edff363fc
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 12 23:54:15 2023 -0300
+
+    feb-p004
+
+commit 3ca317dc74093faea7e1994bb61f5400ddb6a41c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 12 12:29:48 2023 -0300
+
+    add semana 4
+
+commit 5ab303bd9ddf0c18a742e71ec137208a5990fbef
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Dec 6 00:35:37 2023 -0300
+
+    FEB-P003
+
+commit c9b5a0d43bb241cbdc7cebc954b64109806414c5
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 23:13:11 2023 -0300
+
+    FEB-P002
+
+commit 74e2909e04e4b40676496e0aba1a06526e31b7f3
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 29 17:26:24 2023 -0300
+
+    Aula 22/11
+
+commit d493c3cb1e3e5a5847ccbd478de8264a828265f6
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Wed Nov 22 17:41:26 2023 -0300
+
+    Aula 22/11
+
+commit 7411f94837d85b71c1934fc5bca95ff05a2a9d43
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 10 10:33:26 2023 -0300
+
+    add portifolio.html, novas imagens e finalização
+
+commit dc0614631f075f8b5317ade72beaf73d23c2cc00
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 10 00:31:53 2023 -0300
+
+    atualização index e add imagens
+
+commit 2679c8c1c7ba27b18cc2bbc60a9a54bc5eadacf7
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 9 23:40:47 2023 -0300
+
+    first commit

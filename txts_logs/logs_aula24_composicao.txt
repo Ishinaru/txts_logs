@@ -1,0 +1,5 @@
+commit 04f50dfa75483ab28c4233b939d0287c9adb843e
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Oct 13 21:54:49 2023 -0300
+
+    atividade_13.10

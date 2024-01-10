@@ -1,0 +1,197 @@
+commit b3dcfa179e6021d2b7e58290b16314b6bbae5d15
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 17:44:39 2023 -0300
+
+    Implementando Mudanças
+
+commit dcc55dba5bd56ec2a457dbe556d2002458358741
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Oct 31 16:49:50 2023 -0300
+
+    Atualizando README
+
+commit 9cd92f6cf7e9fa6d6a7b5f40a9b759847a0c8f09
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:43:30 2023 -0300
+
+    Arrumando Printf que mostra os N elementos d Lista
+
+commit 492a676ad54dd72cb16da142c2c8b40d68ad5b2c
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:28:05 2023 -0300
+
+    Arrumando Print Salário
+
+commit 85ac469b241f3f9aa52d7223904f6ebd46968a2d
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:24:33 2023 -0300
+
+    Arrumando Nome Listar Em Ordem Em Lista Idade
+
+commit 00d133e4f07e4b0b204cf0882ee41470ca9dd6e9
+Merge: c1d6ee5 66f4a51
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:22:01 2023 -0300
+
+    Merge branch 'main' of https://github.com/DStalkerBR/TIC18-Av.2-Data-Fruta
+
+commit c1d6ee592f5e8eee632662f8130239e3faae172e
+Merge: 893f180 fdbd58f
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:18:33 2023 -0300
+
+    Merge branch 'IgorAlex'
+
+commit fdbd58fbe0436819db1d0f4555ddece5f505ba8b
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 16:17:21 2023 -0300
+
+    LIstarEmOrdemPrimeirosElementosListaSalario
+
+commit 66f4a51ed0e1cf4772e264bb85b4342b6cc0bd5a
+Merge: fab76e6 4e0c8fb
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Oct 31 16:13:43 2023 -0300
+
+    Merge branch 'David'
+
+commit 4e0c8fb006c73beed4a1487493da915e6e8bd549
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Oct 31 16:12:29 2023 -0300
+
+    implementação listarEmOrdem e primeirosElementos
+
+commit fab76e6eb31fe293e55e00c2760197f86f32f1cd
+Merge: 893f180 2a14c26
+Author: Daniel <daanielpenedo@gmail.com>
+Date:   Tue Oct 31 15:54:54 2023 -0300
+
+    Merge branch 'Daniel'
+
+commit 2a14c26bd99413da0ad5d5bf99c536d8d73a90ae
+Author: Daniel <daanielpenedo@gmail.com>
+Date:   Tue Oct 31 15:52:42 2023 -0300
+
+    metodos_main
+
+commit e3613be1de2152f668d1c8229795e05a844c19ee
+Author: Daniel <daanielpenedo@gmail.com>
+Date:   Tue Oct 31 15:41:22 2023 -0300
+
+    compara_data
+
+commit 893f1807053147cbaedb01a4ec118b821fb1e24c
+Merge: 253a89f 501c7af
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Oct 31 15:27:42 2023 -0300
+
+    Merge remote-tracking branch 'origin/lista_datas'
+
+commit 501c7af5aff5ce7dcf58d3544b4c53b7fba086c7
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Oct 31 14:49:31 2023 -0300
+
+    mostrarMediana usa ListaDatas->ordernar
+
+commit cef2a932663632f6a093cf1c8c7b7c7ba281007b
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Oct 31 14:35:05 2023 -0300
+
+     Pt2 Datas - listaEmOrdem e primeirosElementos
+
+commit 253a89f317ca35ba8e34c6e2641b2ea86de23dac
+Author: Ian Robert <iannrobert@hotmail.com>
+Date:   Tue Oct 31 14:28:42 2023 -0300
+
+    listaEmOrdem() e primeirosElementos(int n)P2Idades
+
+commit d1abb0e7754fff938d406367cf926a3aa256b220
+Merge: f2fb4eb 187308b
+Author: Jhonata Araujo <34558728+DStalkerBR@users.noreply.github.com>
+Date:   Tue Oct 31 13:56:17 2023 -0300
+
+    Merge pull request #2 from DStalkerBR/Ian
+    
+    Lista Idades Parte 1
+
+commit f2fb4eb1dd4d258592bd39b6fcdb025181c67131
+Merge: a3f244d 34f57bd
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Oct 31 13:50:34 2023 -0300
+
+    Merge branch 'lista_datas' into parte1
+
+commit 187308b0ab6e5400b8e56137e29ae6a8ee5563b3
+Author: Ian Robert <iannrobert@hotmail.com>
+Date:   Tue Oct 31 13:41:05 2023 -0300
+
+    Lista Idades Parte 1
+
+commit a3f244d8fe1eafa60966297bf9523102ee0905c3
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Oct 31 02:53:08 2023 -0300
+
+    Implementação de lista salarios
+
+commit 34f57bd7ac8a1bf94313ce262e94a04b9df6c7c0
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Mon Oct 30 11:12:03 2023 -0300
+
+    fix Indice em ListaDatas::mostraMediana
+
+commit 9265fca2a88e38894a94903fae7a3c6e1e499d5c
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Thu Oct 26 12:05:07 2023 -0300
+
+    Implementação dos metodos de lista de datas
+
+commit fb1b6f9d208b0ed1b497e1a4d4322737d4441d5c
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Thu Oct 26 10:40:02 2023 -0300
+
+    Fix acentuação comentarios e Att Readme
+
+commit baa4a3d88d48ab1397cf760e5a9aebff2e578f94
+Merge: 015e271 36e2a48
+Author: Jhonata Araujo <34558728+DStalkerBR@users.noreply.github.com>
+Date:   Thu Oct 26 10:33:54 2023 -0300
+
+    Merge pull request #1 from DStalkerBR/David
+    
+    Implementação Inicial dos metodos de todas as classes e total da classe Lista de Nomes
+
+commit 015e271c6c11b01bd2918f1d95ecf6206547c6f9
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Thu Oct 26 10:20:07 2023 -0300
+
+    Atualizando readme
+
+commit 36e2a48c5261e3feb6c06c656e6862f5a647aea2
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Oct 26 09:51:39 2023 -0300
+
+    Atualizacao da Classe Nome
+
+commit 94ae64a081af8d3dfc57cdfa193fc18ff22ba293
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Oct 25 21:59:40 2023 -0300
+
+    Commit Atualizacao
+
+commit 6bcc7e8a4cd51dd88bc639b09186fb0739c8fddf
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Oct 25 21:37:03 2023 -0300
+
+    Implementação da hierarquia das classes
+
+commit c83792088166c1c6295069ba41050234c4e0c799
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Oct 25 21:35:50 2023 -0300
+
+    Implementação da hierarquia das classes
+
+commit 24f78e93305200a025e1dea1fb24137d16e164b9
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Oct 25 20:41:48 2023 -0300
+
+    first commit

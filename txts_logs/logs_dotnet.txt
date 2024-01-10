@@ -1,0 +1,216 @@
+commit a76626288fa705ff7e33e35d91072d0892208dd4
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 17:55:59 2023 -0300
+
+    ultimo commit
+
+commit 8b945313899e1bb91673c31fb0ffbfb32db504c6
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 17:41:20 2023 -0300
+
+    commit dnv
+
+commit 1f0f599588a6be99329985ece09b86b242be7192
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 17:40:27 2023 -0300
+
+    commit 13
+
+commit 1f5ae4fe05715a12a648b45816edc286d7828fca
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 17:30:46 2023 -0300
+
+    commit 12
+
+commit feb799b58df073762ab0814dd191c2e2207c5a85
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 17:14:40 2023 -0300
+
+    commit 11
+
+commit a196094a6e78d63fcf3496c42add0f4bbaf58f2c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:54:50 2023 -0300
+
+    commit 10
+
+commit 1dc751b92550de2432316b7beb545488cd379a4c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:42:52 2023 -0300
+
+    commit 9
+
+commit 6266cee2e5804980ab0f233688ab8191c03145ad
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:39:57 2023 -0300
+
+    commit 8
+
+commit b28dd5384f6b7a9d425338a013b576ae77f9fe60
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:29:22 2023 -0300
+
+    commit 7
+
+commit a338a8b3cc4d7755f2c4451fe2e355a52a8eb15c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:18:43 2023 -0300
+
+    commit 5
+
+commit e1d2e7925d58423d8d4e4736dde9be99a0ed663b
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:12:16 2023 -0300
+
+    commit 4
+
+commit 388dba0ada35776ed02cbf70dde294d27feb55ed
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 16:03:49 2023 -0300
+
+    commit 3
+
+commit 19e23879b114dae30607b8274cb38fba44e008d5
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 15:54:21 2023 -0300
+
+    commit 2
+
+commit 2b98cbf23290fc0d73a0e1c095d647b21cf85b69
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 15:35:06 2023 -0300
+
+    commit1
+
+commit 1c22d8a2db493024a8fdc5797fe1557f0712dfd9
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 15:34:51 2023 -0300
+
+    1 commit
+
+commit 7305ef327c9b02b6091d72c7d7a6c63972d6c82c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 15:25:54 2023 -0300
+
+    exercicios
+
+commit b9397e18b14b90da23e9fcd947cabb403e147dea
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 15:25:31 2023 -0300
+
+    msg
+
+commit 9996f9d1797b70d73865cd49074300ee643aa2da
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 14:47:49 2023 -0300
+
+    hhhhh
+
+commit fe8a38a149768dfeaf24e38ff96e7d342dd7190d
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 29 23:46:35 2023 -0300
+
+    Conclusão da atividade
+
+commit 89ff1d550f9622a8ccd04c3cc825085b271746ca
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 29 21:22:18 2023 -0300
+
+    Fix file paths and update NuGet tool version
+
+commit 089f6882d1959ed46764bbf58b0c9412b4dcc8b5
+Merge: 1e2f401 7d5b17b
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 29 21:22:06 2023 -0300
+
+    Merge branch 'dotNET-P002'
+
+commit 1e2f401cc0bc521e9d4d21b010390a626dcea96c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 29 21:19:59 2023 -0300
+
+    Update AssemblyInformationalVersion to 1.0.0
+
+commit 83bae8c38b87ba372b27021366dadda630e48026
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 23 17:38:33 2023 -0300
+
+    Anotações de aula
+
+commit 7d5b17b873cc6d0152a4717d12beb020f905fca1
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 23 17:37:42 2023 -0300
+
+    outras anotações
+
+commit 014043eae6dde4cb8c83560b46cc60b5f4229eb4
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 23 17:37:28 2023 -0300
+
+    anotações da aula
+
+commit d5f27a99516ebf310f986f9015fdf978270c9990
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Nov 22 23:57:17 2023 -0300
+
+    Conclusão da atividade .NET-P002
+
+commit 65aadad23c0a8acd665618bb8f527c040963dafe
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 17 00:37:34 2023 -0300
+
+    remoção de pastas
+
+commit 4da93dd0a88c7a0ad58247fb9257ffa8def2757a
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 17 00:31:02 2023 -0300
+
+    atualizações na branch
+
+commit 69678cd59c47010336b466c1a205906a46c372f1
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 17 00:23:33 2023 -0300
+
+    atualizações gitignore
+
+commit 8561c8dddfaedeecd65eb8d51dfe2787cf2a0b0e
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 17 00:22:38 2023 -0300
+
+    atualizações gitignore
+
+commit 8e22bcf4d3bce28c0de94ba01e1c78c2e5a57eca
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Nov 17 00:14:39 2023 -0300
+
+    respostas da atividade .Net-P001
+
+commit 16dd93ec5d88cbaade930d1d076e53cc7c96249c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 16 17:05:52 2023 -0300
+
+    atividades em classe
+
+commit 87928deb5a703982870b5a53e077cf9f6937fa79
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 16 17:05:18 2023 -0300
+
+    Ativadades em classe
+
+commit 12e66235c9c3fdd22280d449eb86eba65420739a
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 9 17:17:54 2023 -0300
+
+    Atualizações conforme a aula
+
+commit 3a064f94064fd76e2583aff960179fb3874f47d5
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 9 16:38:34 2023 -0300
+
+    gitignore
+
+commit c26b713b9c78fd0ee4d4a2b032cb313dd94756f6
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 9 16:37:20 2023 -0300
+
+    Primeiro Commit

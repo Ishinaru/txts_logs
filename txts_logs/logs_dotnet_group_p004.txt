@@ -1,0 +1,465 @@
+commit c29c222cdcfc78856e36c9ee59ee5d663c8694e8
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 17:33:26 2023 -0300
+
+    Commit Final
+
+commit 2ef4a6b51d99ea6854fc9d20acfc2e236859ff35
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 17:15:39 2023 -0300
+
+    Final
+
+commit 4c3ba0d082ef7f0b4a959914d7cda334ce4a0aeb
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 17:13:39 2023 -0300
+
+    Commit
+
+commit 6b3e1b0bdd69980953e17539d3437683f1800678
+Merge: 03c9330 56b041e
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 17:10:59 2023 -0300
+
+    Consertando While
+
+commit 03c9330847040ef7bd3fb063d5f39d450881f30e
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 17:08:34 2023 -0300
+
+    Consertando While
+
+commit 56b041e48c0ff3137ff382e28114f36ab84c1b96
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 16:59:44 2023 -0300
+
+    FIx3
+
+commit 1a6c004d5341f2563a3abb9df46a9e331e8ec7c1
+Merge: 82f9813 d096abc
+Author: Ian <ianrodrigues2001@hotmail.com>
+Date:   Thu Dec 7 16:56:43 2023 -0300
+
+    Merge branch 'desenvolvimento' of https://github.com/RicardTIc/TIC18_DOTNET_P004 into desenvolvimento
+
+commit 82f98136a1f23bd6cfba40335cb1686fbe6378cf
+Author: Ian <ianrodrigues2001@hotmail.com>
+Date:   Thu Dec 7 16:53:54 2023 -0300
+
+    Finalizando IPagamento
+
+commit d096abc4c0fc3ad23e926e1a8044b5eaadef06b5
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 16:47:07 2023 -0300
+
+    Opa, corrigindo o compilamento!2
+
+commit 14d4d504dab3241906cb2fa46a56d77620ce59cd
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 16:37:53 2023 -0300
+
+    Opa, corrigindo o compilamento!
+
+commit 58c016e28063b9c9cef1a2adc4e24fdc1eac6af1
+Author: Ian <ianrodrigues2001@hotmail.com>
+Date:   Thu Dec 7 16:37:23 2023 -0300
+
+    Modificando a lógica dos pagamentos
+
+commit 1d24777bad7994364d41ba6456b4ec2576b3b021
+Merge: 7a74c68 62cb557
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 16:30:26 2023 -0300
+
+    Merge branch 'desenvolvimento' of https://github.com/RicardTIc/TIC18_DOTNET_P004 into desenvolvimento
+
+commit 7a74c68a9f6c71f627d6a6aaa262a856b4bcc16d
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 16:29:05 2023 -0300
+
+    Cuidado, tem erro na compilação!
+
+commit 37e24eb5062c56fbad522129e78aa70c2e3b95a3
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:28:48 2023 -0300
+
+    Funcional
+
+commit bbfefcd05272f330d9538f8b6ad9111fc7903cda
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:21:15 2023 -0300
+
+    Modificações
+
+commit 1aad238fdda98761734c27d5eabe1d8f0c31222e
+Merge: dfef453 62cb557
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 16:06:35 2023 -0300
+
+    Merge remote-tracking branch 'origin/desenvolvimento' into Ezequiel-POO5
+
+commit 62cb557f72fc323da73b015a72351e836ece73ae
+Merge: 5c37be1 acc46f5
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:54:29 2023 -0300
+
+    Merge branch 'desenvolvimento' of https://github.com/RicardTIc/TIC18_DOTNET_P004 into desenvolvimento
+
+commit 5d39a13c91d4e385a158cc97aecd87e3acd098e5
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:51:27 2023 -0300
+
+    feat: consultoria sendo chamda em escritorio
+
+commit dfef4534e4917858a3616761dc385649816e3c01
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:50:29 2023 -0300
+
+    Modificações
+
+commit 5c37be120675d6a3d7ddb9735eb514577e116b11
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:50:23 2023 -0300
+
+    Consultoria
+
+commit acc46f50901ce06a0f5c34ef1f062efcc2221422
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:49:58 2023 -0300
+
+    Fix: completando relatorios
+
+commit 5490be42a7cf9b4ebd807c93210997acea868a93
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:46:55 2023 -0300
+
+    Feat: completando relatorios
+
+commit 2d7a1bc92bda3ff218efb86eae42e10c77db0f0a
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:46:53 2023 -0300
+
+    Feat: completando relatorios
+
+commit 86e69a6bfb5bdeeebb7d3bc12c94d5a6fecc4e06
+Merge: e488a34 40e318e
+Author: Ian <ianrodrigues2001@hotmail.com>
+Date:   Thu Dec 7 15:39:14 2023 -0300
+
+    Merge branch 'desenvolvimento' into DevIan
+
+commit e488a34188f22528903f4c0299f95032a4c2e4ad
+Author: Ian <ianrodrigues2001@hotmail.com>
+Date:   Thu Dec 7 15:38:07 2023 -0300
+
+    Adicionando esqueleto do IPagamento
+
+commit 2efa21a6232c86f74ec363d3a2eeb246cd423140
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:30:10 2023 -0300
+
+    Implementação de atributos
+
+commit 40e318e0d173e9bae48b5a4281468e07553d8d34
+Author: DanielPenedo97 <Dapsantos.cic@uesc.br>
+Date:   Thu Dec 7 15:28:48 2023 -0300
+
+    Subindo para desenvolvimento
+
+commit 1a51b27ec5f90f4bf74534183bb0c0ecd85528f1
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 15:27:24 2023 -0300
+
+    Novas classes
+
+commit e3d737da560969963d5c54155cb84ce869e1d5f4
+Author: Gustavo Gonzaga <gustavosg91@gmail.com>
+Date:   Thu Dec 7 15:07:21 2023 -0300
+
+    Feat: codigo modularizado
+
+commit 4c931850a0431d421401860eb8cedca3b92e448d
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Dec 7 00:20:33 2023 -0300
+
+    conclusao
+
+commit 8ced061d22c7e11f9e218cf26fffb30259d0edbd
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 23:57:11 2023 -0300
+
+    Adicionando o 7 relatório incompleto
+
+commit 64fe6897783b464621c79f97bc9a4ea52346dba3
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 23:28:01 2023 -0300
+
+    Adicionando relatório para obter casos em aberto ordenados por data de início
+
+commit 02df92f1bf38c90eac543eddd9923e8128a3a41d
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:19:13 2023 -0300
+
+    Update README.md
+
+commit 5ed52ef28ec3a78c5ed28099e307bb30ec72958c
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:18:09 2023 -0300
+
+    Update README.md
+
+commit d91d39c4fe428d2eab606e8d7ac74f036475989d
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 23:15:39 2023 -0300
+
+    Update README.md
+
+commit f3009fd07575d9f3acb41c4457c6ee73c72be1f7
+Merge: 846bb54 3ab992e
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 23:05:18 2023 -0300
+
+    Merge branch 'main' of https://github.com/RicardTIc/TIC18_DOTNET_P004
+
+commit 846bb54d97a5e73ccd5f4e4969f63b8d23ed74ef
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 23:02:13 2023 -0300
+
+    codigo
+
+commit ec4f8544245ca041f612f58f9229e5c79b5867ef
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 22:31:57 2023 -0300
+
+    Adicionando relatório para obter clientes e advogados de acordo com o mês
+
+commit 90fcf4ab267455b4104e36b35f07a741767f2675
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 22:17:18 2023 -0300
+
+    Adicionando relatório para obter clientes por profissão
+
+commit 716782b435a226feda899c18bcdda333a183b8e0
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 22:09:26 2023 -0300
+
+    Adicionando relatório para obter clientes em ordem alfabética
+
+commit 4a632d56ec9aa0bc749f6f2b3fe8b23f6a2d1666
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 21:52:20 2023 -0300
+
+    Adicionando relatório para obter clientes de acordo com estado civil
+
+commit dd606f2455c53f60917f0bbd2eb6c11df97c29dc
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 21:42:47 2023 -0300
+
+    Complemento
+
+commit a335592fc20f19583b4b4d971ceda25350983c19
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 21:20:38 2023 -0300
+
+    .
+
+commit 259d3eeecba061d378508236abb11e616e47cc2f
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 20:59:55 2023 -0300
+
+    Adicionando tratamento para o atributo cpf na classe abstrata Pessoa
+
+commit e8630fd7ae87f1d005082fbcff695cfb927f72f4
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 20:59:04 2023 -0300
+
+    Correção
+
+commit 87194dda07ad87cf60a2513ed564db9c7d443efc
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 20:55:14 2023 -0300
+
+    Desenvolvimento de menu
+
+commit 2b093d37b9bfa9490014b18119e608c1014b5efc
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Wed Dec 6 20:45:53 2023 -0300
+
+    criando o branch
+
+commit 093b4d86b726fd74ab290c15583bb335865fab0b
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 20:30:06 2023 -0300
+
+    Inicializando Cliente e status no construtor de CasoJuridico
+
+commit 8dd332c2bb5c2f64937cb5d2fb37c31ec713b57e
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 20:23:28 2023 -0300
+
+    Adicionando construtor para documento
+
+commit 3600af62601a934421d0a091e173c2937057f196
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 20:20:51 2023 -0300
+
+    Adicionando classe Program
+
+commit 08749e8654edfce6c1767e133e59b08334a21a62
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 20:08:56 2023 -0300
+
+    Retirando comentários
+
+commit 868a1c96680396405e0d4b95ab706d44b1c5a508
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:49:14 2023 -0300
+
+    Adicionando classe Escritorio
+
+commit 313cb32f1e55903a83978161b75f3791059de58b
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 19:47:25 2023 -0300
+
+    Otimização
+
+commit 8d1428c7baeb9889f77a863d3589d922a257b52d
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:44:42 2023 -0300
+
+    Adicionando classe CasoJuridico
+
+commit 2f7244b7a33e333fbd4232eca4a12bd12103d3f0
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 19:35:42 2023 -0300
+
+    Implementação de novos metodos
+
+commit 9dd4187290dcea7d5425e6a251c6290cddc0871f
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:31:54 2023 -0300
+
+    Adicionando classe Documento
+
+commit d92f16d62445c7f6b5976ac36d5a613b484dbbee
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:23:58 2023 -0300
+
+    Adicionando classe Cliente
+
+commit 790fc4188db832d3a30de8c0c281523bb5bf4bd3
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:23:38 2023 -0300
+
+    Adicionando classe Advogado
+
+commit 1957e4f736918f8cfd60274b9baea6c35957a058
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:23:03 2023 -0300
+
+    Adicionando classe abstrata Pessoa
+
+commit 3ab992e3369585f7c18e0df924ab1fce4d982db5
+Merge: 88b6286 2fda203
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:13:12 2023 -0300
+
+    Merge pull request #1 from RicardTIc/ian
+    
+    Adicionando gitignore
+
+commit 2fda2032c62dba7584be1f94cb87cce96d5c2489
+Author: Ian Rodrigues Alexandrino <133264089+IanAlexandrino@users.noreply.github.com>
+Date:   Wed Dec 6 19:11:56 2023 -0300
+
+    Adicionando gitignore
+
+commit a3d5cd537e15e87300ca18987978c61e6d0efc17
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 19:10:49 2023 -0300
+
+    Otimização das relações
+
+commit 32c66092b39ada06f0b5e8f9875959ad52694ee4
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 18:52:30 2023 -0300
+
+    Implementação de novas classes
+
+commit 1ef7eb9e9e10767ccfbc06347bb9a4e1f819a261
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Wed Dec 6 18:31:30 2023 -0300
+
+    codigo estável
+
+commit 9ca64fac748b103eb46466e3b1a86024f715ce3c
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:44:00 2023 -0300
+
+    teste
+
+commit 18d5e784a0dc762b6d21e50b4f16fbcfa64e7030
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:41:36 2023 -0300
+
+    programa
+
+commit 10d708e8359541151faf07821adea430164c8559
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:38:30 2023 -0300
+
+    relatorio
+
+commit d3cb27d3bf0584d0a9f75908ddd150f254894066
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:36:08 2023 -0300
+
+    codigo
+
+commit 77cdb5637ac9655280cee742f1abe9419f560538
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:33:26 2023 -0300
+
+    documento
+
+commit 5ab9fef4520918ee7a83d1c49e0ee9495149d43f
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:31:38 2023 -0300
+
+    parte 2
+
+commit ecf45ab7d28a7ce3bb25a85a7319f90c3deaf1f2
+Author: DanielPenedo97 <84890636+DanielPenedo97@users.noreply.github.com>
+Date:   Wed Dec 6 16:21:45 2023 -0300
+
+    Commit2 16:21
+
+commit 62536eea9d56e6edc803800b2aaf3d479417cdc3
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 16:20:41 2023 -0300
+
+    parte 2
+
+commit 817f53a559dc3684fd6f44c8be10176967947375
+Author: DanielPenedo97 <84890636+DanielPenedo97@users.noreply.github.com>
+Date:   Wed Dec 6 15:47:38 2023 -0300
+
+    PI004
+
+commit cd1b679afce6f2f97da28e07b0c10a53b822f575
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 15:36:24 2023 -0300
+
+    class cliente
+
+commit e5edc823c588a09cae00ce7adcd1628e5e75f87f
+Author: Ricardo <cat-richard@hotmail.com>
+Date:   Wed Dec 6 11:53:48 2023 -0300
+
+    class advogado
+
+commit 88b62860e4e9d6eb900baedc26efb306a039f1d2
+Author: Ricardo <148831994+RicardTIc@users.noreply.github.com>
+Date:   Wed Dec 6 10:30:50 2023 -0300
+
+    Initial commit

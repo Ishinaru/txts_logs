@@ -1,0 +1,310 @@
+commit be005022d8f85cd1a493a925dcbe7848e9a023e7
+Author: DanielPenedo97 <dapsantos.cic@uesc.br>
+Date:   Wed Dec 6 01:10:21 2023 -0300
+
+    DataFrutaP004
+
+commit d0b15507049d3d92e26261b588ad0a0c34fc7b4b
+Author: DanielPenedo97 <dapsantos.cic@uesc.br>
+Date:   Wed Dec 6 00:43:35 2023 -0300
+
+    Commit P003
+
+commit c6297e45e3b13db6ce2cda97a7560aafa2884e4c
+Author: DanielPenedo97 <dapsantos.cic@uesc.br>
+Date:   Wed Dec 6 00:36:56 2023 -0300
+
+    Commit 00:36
+
+commit ad5d5789ac1766dcc8ed80171aa43594996af0c6
+Author: DanielPenedo97 <dapsantos.cic@uesc.br>
+Date:   Wed Dec 6 00:31:48 2023 -0300
+
+    Commit organizando celulas
+
+commit b4bb62844d1ac10f1748a0d4aed919ba7f799401
+Author: DanielPenedo97 <dapsantos.cic@uesc.br>
+Date:   Wed Dec 6 00:29:27 2023 -0300
+
+    Commit1
+
+commit a12ec4528353ef2eeae30af55f73c17690020359
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Dec 6 00:24:24 2023 -0300
+
+    Informa sobre arquivos
+
+commit 9dd45df4968e1b68f9cbde868bca3e8867780fd7
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Dec 6 00:22:37 2023 -0300
+
+    Adiciona exercicio 1
+
+commit e59a5624882185225695b633a02997870d3ec831
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Dec 6 00:11:44 2023 -0300
+
+    Add readme
+
+commit c31824815e3abdfd5b2d69d15e4c8377c32abd2c
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Wed Dec 6 00:11:22 2023 -0300
+
+    Adiciona exercicio 3
+
+commit dcc890a5a5d463ba2b23ac4e84921bd3b34dec96
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Dec 5 23:45:47 2023 -0300
+
+    Formata salario no print
+
+commit d90e66ab2667085586608f683a1000c76ba1352a
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Dec 5 03:55:43 2023 -0300
+
+    Implementa menu e adicionardado
+
+commit d37192b1333f1706c1556df0da180398f7702bf9
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Dec 5 03:25:30 2023 -0300
+
+    Adiciona pasta
+
+commit fee1525f4d5b58893700337aec7637748e804910
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Dec 5 03:24:57 2023 -0300
+
+    Add listarEmOrdem e classe Estatisticas
+
+commit 932cf77a59eb269f898d934c9c823ff047f53265
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 02:42:28 2023 -0300
+
+    adicionando pasta PP-P004
+
+commit eb6a7aec4cb5d6b10dc69e124c82e2714a1eb000
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 02:37:25 2023 -0300
+
+    Exercício 3
+
+commit ed44e6dcaec7e864e428cdd2f23f9bf4d807d062
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 02:32:05 2023 -0300
+
+    Exercício 2:  Segunda Atividade:
+
+commit 4449b1800a1926bc8b9bbcc5a0d9168c157ddb7a
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Tue Dec 5 02:08:55 2023 -0300
+
+    Implementa metodo das classes
+
+commit e4a311b8adf3e70466921da0d7689ff807f546cb
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Tue Dec 5 01:18:48 2023 -0300
+
+    Inidividual e Equipe
+
+commit 3e8f814f763ffb1c8ad6d2a967a1127e9c42f512
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 01:16:36 2023 -0300
+
+    Exercício 2: Atividade 1
+
+commit 33175dd73bf85469cd1bcea0f35559991bb06b7f
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 01:12:28 2023 -0300
+
+    Exercício 1
+
+commit 0faf3c89209770f4d0ad847a38b832a7d50893c2
+Merge: 3198fae 8a05528
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Dec 4 23:42:55 2023 -0300
+
+    Merge branch 'main' of https://github.com/DStalkerBR/TIC18_python into David
+
+commit 8a05528c9a2b90c6f766bb3e4e91a42975646fdf
+Merge: 1488079 2b57d2a
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:28:28 2023 -0300
+
+    Merge pull request #1 from DStalkerBR/dev_Ulian_Almeida
+    
+    Dev ulian almeida
+
+commit 2b57d2a247bd12f841176f247dd39f3146f16ab6
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:28:02 2023 -0300
+
+    Implementando análise de dados e métodos DataFruta
+
+commit b5c2d2c20c97b1c653c144722777159bc611ae92
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:27:06 2023 -0300
+
+    Create reademe.md
+
+commit 148807966944fe2df0bbbbc1a0ac947e34bba36e
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:26:13 2023 -0300
+
+    Delete PP-P004 directory
+
+commit 6324a4aeb18c6d0bd1eed464d04c699924581750
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:23:41 2023 -0300
+
+    Análise de dados e implementação estatística.
+
+commit 4c1336c332c2557fc76f81a9ccfb97b135bdc62d
+Author: José Ulian Cardoso <142943023+ulian18TIC18@users.noreply.github.com>
+Date:   Mon Dec 4 23:19:43 2023 -0300
+
+    Create avaliacao.md
+
+commit 8cf25f03868fe273079584f9e79711a14d6eb017
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Thu Nov 30 23:35:14 2023 -0300
+
+    Branch
+
+commit 3198fae47fdfb764288474108024a8909f3debbf
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Nov 30 02:23:10 2023 -0300
+
+    PP-P003 com bugs
+
+commit 19ca9aa93c392440bca086fb2492197bf180f1ce
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 26 19:41:18 2023 -0300
+
+    Atualiza readme
+
+commit 1bc817f41116ea3fe03d163c25f6ef735ec0595f
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 26 19:08:32 2023 -0300
+
+    Implementa exercicio 2 da instrução prática
+
+commit 2559ee4f750e0c0e41e298f313e2fb91929a8842
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 26 00:38:58 2023 -0300
+
+    Implementa excluir e consultar preço de produto
+
+commit 82a49ab78b7bd60249e67b23e06721028d6a214c
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 26 00:12:22 2023 -0300
+
+    Implementa inserir e listar produtos
+
+commit d4d060322548dfdb55cf8615d3049304bfd0a8a4
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Thu Nov 23 23:16:23 2023 -0300
+
+    Inicia P003
+
+commit 33669cc47c33c7e22a47149a6a366e6161a46492
+Merge: 1ab8d9d ee8fad5
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Thu Nov 23 22:55:40 2023 -0300
+
+    Merge branch 'dev-Jhonata/PP-P001' into dev-Jhonata/PP-P002
+
+commit 1ab8d9d2716e793d30a9663ac6150eee5f46e716
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Mon Nov 20 02:26:01 2023 -0300
+
+    Cria pasta principal
+
+commit 0b3519db1d01656e4c9e30d36576593ba080dfff
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Mon Nov 20 02:25:39 2023 -0300
+
+    Implementa persistência e menu
+
+commit 5c2c1c1c27260fd20ebe554cb1c0a39afb77dbac
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Mon Nov 20 02:01:39 2023 -0300
+
+    Atualiza editar tarefa e realizar tarefa
+
+commit 65af8a5ffafb8cbd4b276dce20da34eceffc8a18
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Mon Nov 20 00:54:01 2023 -0300
+
+    Implementa aplicativo ToDoList de PP-P002
+
+commit 23b96ef0a99bbb585645c8a75bc470b07db796b8
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Sun Nov 19 22:50:57 2023 -0300
+
+    Semana2
+
+commit ee8fad5448eecbdcb465b4477f1204bf045af4b0
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 19 20:16:54 2023 -0300
+
+    Reorganiza pastas e atualiza P001
+
+commit ee94117ed4c9ac7efd2bf7f130b758cb29f90515
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Sat Nov 18 13:12:11 2023 -0300
+
+    Reorganização da pasta
+
+commit 6fd6bdf0e3cd9eb158693158598f76f549af6b28
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Sat Nov 18 13:09:26 2023 -0300
+
+    P002 concluída, com bugs na ativadade 2
+
+commit f889410863d0bb3e2f35ca6f3db87f66b38d94b3
+Author: Daniel <daanielpenedo@gmail.com>
+Date:   Wed Nov 15 17:58:55 2023 -0300
+
+    Daniel
+
+commit dc01d48441cd49976a933a8e606697f3a37074bb
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Nov 13 11:44:16 2023 -0300
+
+    novas informações
+
+commit dfe4888ebffd3faf0c314c66e64f73e7b19ab668
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Nov 13 10:44:04 2023 -0300
+
+    Anotações aula 13.11.2023
+
+commit ebac101d5d154c83a7005ab4294411f1164fa270
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Nov 13 02:27:49 2023 -0300
+
+    Conclusão da Tarefa
+
+commit 110c97293799b8cfabba5d35a019a5860d4b1864
+Author: Igor Alex <iafsalmeida.cic@uesc.br>
+Date:   Mon Nov 13 02:04:19 2023 -0300
+
+    ExercícioSemana1
+
+commit cba145c866a7dbe9fed0ff045e7e68e7e86ba3a8
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 12 23:36:51 2023 -0300
+
+    Soluciona PP-P001
+
+commit 1a29cd8b2a8480af6946a7eafc99775573cd9efa
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 12 20:12:53 2023 -0300
+
+    Atualiza emails
+
+commit 1c6ecce1d1ef593d233317eb768c93c4e41c5f4e
+Author: DStalkerBR <jhon89araujo@gmail.com>
+Date:   Sun Nov 12 17:02:46 2023 -0300
+
+    Inicia Repo

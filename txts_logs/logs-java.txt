@@ -1,0 +1,175 @@
+commit 41d3c28114bad0feca4890b19cef1ce9dafa98a2
+Author: Ishinarur <dvplima.cic@uesc.br>
+Date:   Tue Jan 9 20:38:49 2024 -0300
+
+    aula 9/1/24 atualização
+
+commit 65705cdeac36a76fa1d9f1cbec4977abf9339ac9
+Author: Ishinarur <dvplima.cic@uesc.br>
+Date:   Tue Jan 9 20:17:24 2024 -0300
+
+    aula 9/1/24
+
+commit 1115402a30934eaf8ce61a564799ab4a5c70a8f8
+Author: David Vinícius Pereira Lima <89021158+Ishinaru@users.noreply.github.com>
+Date:   Mon Jan 8 12:05:50 2024 -0300
+
+    aula 8/1/2024
+
+commit f1b0d937833f004d01ea29a184eeeca29220f759
+Merge: 12de699 759beec
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Jan 8 03:19:50 2024 -0300
+
+    Merge branch 'master' of https://github.com/Ishinaru/restic18_java
+
+commit 12de699b77f0a44ac63e8758121c28ee0c1be7f4
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Jan 8 03:19:17 2024 -0300
+
+    po-05
+
+commit 759beec204c2f994e854322e22ecae5043465a29
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 19 17:07:30 2023 -0300
+
+    aula de hoje
+
+commit 4853c41cdd726d7a62d608d871d8ea9b60b40a0c
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 19 11:38:28 2023 -0300
+
+    update po-04
+
+commit bbe697473c3402c1a626e131a144a39e95053c8d
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 19 11:37:43 2023 -0300
+
+    update po-04
+
+commit 7f782ed1c4778a93fe91733ee28ef1cc72bb7745
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Fri Dec 15 11:39:36 2023 -0300
+
+    aula tutoria
+
+commit e3b5a2e55288c9b1107558e2e6e1295bb757b097
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Dec 14 20:12:31 2023 -0300
+
+    Atividades 14/12/23
+
+commit 1e4ae760e771b484e992effeb2701dbf302151ed
+Author: David Vinícius Pereira Lima <89021158+Ishinaru@users.noreply.github.com>
+Date:   Tue Dec 12 17:31:17 2023 -0300
+
+    atividades
+
+commit b986fc56f6fa63b1210bc4b94f2431f3a1e54b98
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Mon Dec 11 12:05:23 2023 -0300
+
+    atividades de hoje
+
+commit cd5e35bbae54c5d79de3856bd13c37cdcd7d8edb
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Dec 5 18:44:28 2023 -0300
+
+    atualização de branch
+
+commit 01d2d546b4b5ec204acc7364daf08a65175643bb
+Author: David Vinícius Pereira Lima <89021158+Ishinaru@users.noreply.github.com>
+Date:   Tue Dec 5 15:47:44 2023 -0300
+
+    Semana 4
+
+commit 5722c0fbfced71e5f1592beda5339547a1e72609
+Merge: 709d2b6 1948766
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 28 03:44:29 2023 -0300
+
+    Merge remote-tracking branch 'origin/PO-03' into PO-03
+
+commit 709d2b60a16ab01dc18a1d03771117798bba8ab0
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 21 17:23:25 2023 -0300
+
+    PO-03
+
+commit 19487662dd096ac41f2e8b0cab38d61de61011fd
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 28 03:40:06 2023 -0300
+
+    consertando branch da semana 3
+
+commit 8fe1ec774006a1af7e39a41422e05d1980cfd45f
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 28 03:33:26 2023 -0300
+
+    PO-03
+
+commit e0a8fdcde79d44763a0a47642e596a3f26986873
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 21 17:23:25 2023 -0300
+
+    Aula 21.11
+
+commit 7c54432459a888a85045b8f2fa7b418c567f56e0
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 21 03:03:38 2023 -0300
+
+    Conclusão da Atividade PO-02
+
+commit 8321c1cd9fcda59e3d2a34233c31769aa08e752f
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 23:38:39 2023 -0300
+
+    Exercicio 1 : calculadora de media
+
+commit 5e60cd7cf67687b1f8270fd760d72dbe071ea97e
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 20:44:21 2023 -0300
+
+    atividade RedeSocial
+
+commit 43c4f203ec381bd49b6967d59519898d5530c786
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 20:40:47 2023 -0300
+
+    update mainCliente
+
+commit a6520290a16e0c2ea124438879399ae9f3bc0588
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 18:42:53 2023 -0300
+
+    Aividade cliente
+
+commit 5bc708c0acd5e3e42d69664e3a6ed083b846150d
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 18:09:31 2023 -0300
+
+    atualização classe room
+
+commit b8faf36d5eafcc735ce971500a515eec23a9fbaa
+Author: David Vinícius Pereira Lima <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 17:58:21 2023 -0300
+
+    Aula 14_11
+
+commit 2b3b48772048b24bd54ac583677d19d0adff290d
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 10:35:35 2023 -0300
+
+    add getters e setters em calculadora simples + att
+
+commit cc601b4b28628ee8e52ecbc4e073d5bcedb2f822
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 00:42:55 2023 -0300
+
+    mudança na pasta calculadora
+
+commit f887601bc76100dcb63562b699cb7c86eec0f38d
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Tue Nov 14 00:40:24 2023 -0300
+
+    Atividade PO-01

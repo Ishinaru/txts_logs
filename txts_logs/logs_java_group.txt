@@ -1,0 +1,173 @@
+commit 70b793acdb8aa25a6f4389353549e6be8f2008ca
+Merge: e07d388 071856c
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 12:06:39 2023 -0300
+
+    Merge pull request #8 from brenoriios/revisao-pagamentos-breno
+    
+    Ultimo comit da avaliacao
+
+commit 071856c7bf088cc08f2243ec5a597b99e2e00709
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 12:06:02 2023 -0300
+
+    Ultimo comit da avaliacao
+
+commit e07d38899f8ef700468ed620a8ccc8c2a3148297
+Merge: 258f20d 2dfb69e
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 11:53:57 2023 -0300
+
+    Merge pull request #7 from brenoriios/revisao-pagamentos-breno
+    
+    Corrigidas adicções de falhas e reparos
+
+commit 2dfb69e941bdaea6320e80351898150cb8b30a75
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 11:52:28 2023 -0300
+
+    Corrigidas adicções de falhas e reparos
+
+commit 258f20d9aec9dc263fb0e84d82c5f84b55cb54ba
+Merge: e19321c 8f7b858
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 10:20:19 2023 -0300
+
+    Merge pull request #6 from brenoriios/revisao-pagamentos-breno
+    
+    Correções no controle de Pagamentos e Reembolsos
+
+commit 8f7b858be97379fa92e490480e2cb5f2880927a1
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 10:18:52 2023 -0300
+
+    Correções no controle de Pagamentos e Reembolsos
+
+commit e19321c18be91728005553d7e9d3371ae1d89214
+Merge: 20e8053 8380d33
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 09:38:05 2023 -0300
+
+    Merge pull request #5 from brenoriios/falhas-reparo-Thiago
+    
+    Classe Reparo
+
+commit 20e80539d786a69fb94f9d446a54c8bcf4d0e153
+Merge: 4835f1d a8fe676
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 09:37:32 2023 -0300
+
+    Merge pull request #4 from brenoriios/revisao-breno
+    
+    Revisao breno
+
+commit a8fe676422368e03f1668a9d14d4d3d00702532a
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 09:36:22 2023 -0300
+
+    Implementado controle de faturas
+
+commit 8380d332214917049319e5490517d1c3cc7d8764
+Author: tlsena <thiagosena.d.j@gmail.com>
+Date:   Thu Dec 7 09:03:08 2023 -0300
+
+    Classe Reparo
+
+commit 8d77a8a9e41f797a85c5d02980ae4047e2120e80
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 09:01:44 2023 -0300
+
+    Correções nos controles de Clientes e Imoveis
+
+commit 4835f1d1620ef07706b9d238af710f2fad71d6b8
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Thu Dec 7 08:26:59 2023 -0300
+
+    Atualizado README
+
+commit 270409cdd681748844903cb08bb4763a323e3082
+Merge: 703f146 a8388c4
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 08:14:05 2023 -0300
+
+    Merge pull request #3 from brenoriios/Gestão-de-Imóveis-david
+    
+    Adicionando ControleImoveis
+
+commit 703f146643e79438b9dfb18b2d567e1414ad223a
+Merge: 168a5b9 88c2479
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Thu Dec 7 08:13:25 2023 -0300
+
+    Merge pull request #2 from brenoriios/Controle-Pagamentos-Ezequiel
+    
+    Controle pagamentos ezequiel
+
+commit 34b19aabf6a7d498e7f910eb0c0827ab21c2f0d0
+Author: Tales <talesdearaujo18@gmail.com>
+Date:   Thu Dec 7 08:10:38 2023 -0300
+
+    minha versão
+
+commit a8388c4767750cf2df1bec8eae6ea62894b805dc
+Author: Ishinaru <dvplima.cic@uesc.br>
+Date:   Thu Dec 7 05:17:28 2023 -0300
+
+    Adicionando ControleImoveis
+
+commit 88c24794dd13ff7e9eb7ac4ce4df043077efac7f
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 03:21:53 2023 -0300
+
+    Complemento
+
+commit a090600df7d95c946c2d95f7fec0aa987a552471
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 01:55:25 2023 -0300
+
+    Controle de pagamentos
+
+commit 673ab2cde23cd76f21a6a5c7a8ee2ee39c1ef37d
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 01:34:27 2023 -0300
+
+    Pagamento
+
+commit ae65290d695affad861011e0cb8c43d3cedbec87
+Author: EzekLobo <eloliveira.cic@uesc.br>
+Date:   Thu Dec 7 01:26:27 2023 -0300
+
+    Reembolso
+
+commit 168a5b916295d572243a9ae718a83f73c0c57823
+Merge: fa85f76 4fef2f5
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Tue Dec 5 23:24:29 2023 -0300
+
+    Merge pull request #1 from brenoriios/controle-clientes-breno
+    
+    Implementadas classes Cliente e ControleClientes
+
+commit 4fef2f51f75222d23fbf2deaf54d2484b203cf6a
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Tue Dec 5 23:22:33 2023 -0300
+
+    Implementadas classes Cliente e ControleClientes
+
+commit fa85f76036498acce82fd0dda50b0f9da517ceb3
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Tue Dec 5 21:16:46 2023 -0300
+
+    Criados menus do projeto
+
+commit 713cdfca1fbd0cda8ae85191dcc732a255f3b788
+Author: Breno Rios <breno@brenorios.com.br>
+Date:   Tue Dec 5 21:16:23 2023 -0300
+
+    Adicionada estrutura base do projeto
+
+commit 78f37396d76d7393eae47d309d2992fc05dd64a8
+Author: Breno Rios <67913567+brenoriios@users.noreply.github.com>
+Date:   Tue Dec 5 20:56:45 2023 -0300
+
+    Initial commit
